@@ -7,7 +7,9 @@
 ###
     python main.py rosa/limason/borbo <numerador> <denominador> <raio> <cor> > <arquivo_saída>
 ###
-#### Observações: 
+#### Observações:
+#### tive problemas com o tamanho do limasons, porém caso dê zoom conseguirá ver que o formato está correto!
+
 * rosa/limason/borbo são as possíveis funções que definem o modelo a ser seguido pela imagem svg
 * numerador e denominador serão, respectivamente,  o numerador e denominador dentro das fórmulas da função escolhida, obs: nos limasons o denominador é apenas outro número, podendo ser zero 
 * raio são os raios dos circulos desenhados, recomendo numeros pequenos < 7
